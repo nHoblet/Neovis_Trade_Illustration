@@ -15,6 +15,7 @@ Because the map assigns resources unevenly, some provinces produce far more of a
 
 ## **Trade center map**
 <img width="513" height="290" alt="Screenshot 2026-09-16 212015" src="https://github.com/user-attachments/assets/2448a296-4fb0-45b8-9572-89025a0ee096" />
+
 _This is the overall trade center map. Where all resources are bought from or sold to_
 
 <img width="467" height="265" alt="image" src="https://github.com/user-attachments/assets/cc08a462-d8d8-4861-874c-ff439ccc6aef" />
