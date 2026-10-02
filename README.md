@@ -62,8 +62,6 @@ foreach (TradeGood importOrder in importOrders)
 
 Land taxes go to the province owner. Ocean taxes are split between every nation with a stake, weighted by `tax × control`. Control comes from bordering land provinces and trade ships.
 
-![Pathfinding](docs/images/pathfinding.png)
-
 ## Balancing between centers
 
 A center's balance for a good is its stored stock minus the import orders routed to it. A negative balance is a deficit. Deficit centers bid on centers with an excess, offering their own price minus the transit cost:
